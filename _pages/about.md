@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 Research Interests
 ======
 
-Machine Learning, Sparse Neural Networks, Deep Learning, Cost-efficient Neural Networks, Time Series Analysis, Feature Selection, Anomaly Detection, Healthcare
+Machine Learning, Deep Learning, Sparse Neural Networks, Computer Vision, Bio-signals, Time-series, Evolutionary Algorithm, Optimization, Bayesian Optimization
 
 
 News
